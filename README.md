@@ -27,3 +27,4 @@ requirements
 rebex
 net
 discord
+internship
