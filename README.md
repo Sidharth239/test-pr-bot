@@ -26,3 +26,4 @@ requirements
 
 rebex
 net
+discord
