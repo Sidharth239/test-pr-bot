@@ -21,3 +21,5 @@ Python
 Java
 
 .env
+
+requirements
