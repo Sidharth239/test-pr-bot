@@ -34,3 +34,4 @@ admin
 internet
 ethernet
 data communication
+linux
