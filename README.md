@@ -33,3 +33,4 @@ foreign key
 admin
 internet
 ethernet
+data communication
