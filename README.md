@@ -31,3 +31,4 @@ internship
 python internship
 foreign key
 admin
+internet
