@@ -30,3 +30,4 @@ discord
 internship
 python internship
 foreign key
+admin
