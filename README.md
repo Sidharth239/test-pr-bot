@@ -32,3 +32,4 @@ python internship
 foreign key
 admin
 internet
+ethernet
