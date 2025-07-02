@@ -44,3 +44,4 @@ C++
 Unix
 github credentials
 Day1
+Day2
