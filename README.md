@@ -1,11 +1,1 @@
-yaml
-git
-devops
-cyber security
-blockchain
-AI
-ML
-interview
-bike
-car
-plane
+muted
